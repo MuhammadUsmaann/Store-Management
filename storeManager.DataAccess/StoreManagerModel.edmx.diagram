@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="abe65153bf714c0db3ec7f0a011bd43a" Name="Diagram1" ZoomLevel="86">
+        <EntityTypeShape EntityType="StoreManagerDBModel.AccessRight" Width="1.5" PointX="7.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Address" Width="1.5" PointX="7.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.AddressType" Width="1.5" PointX="7.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.BackupDetail" Width="1.5" PointX="9.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Brand" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.CardInformation" Width="1.5" PointX="9.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Category" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Company" Width="1.5" PointX="10.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.CompanyDetail" Width="1.5" PointX="11.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Country" Width="1.5" PointX="2.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.CustomerPaymentHistory" Width="1.5" PointX="12.75" PointY="5.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Customer" Width="1.5" PointX="7.75" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Employee" Width="1.5" PointX="12.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.ErrorLog" Width="1.5" PointX="13.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.InvoiceNumber" Width="1.5" PointX="4.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.LabelSetting" Width="1.5" PointX="9.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Location" Width="1.5" PointX="3" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Measurement" Width="1.5" PointX="0.75" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.PaymentMode" Width="1.5" PointX="11.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.ProductAdjustment" Width="1.5" PointX="13.75" PointY="13.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.ProductLocation" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Product" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.PurchaseDetail" Width="1.5" PointX="14.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Purchase" Width="1.5" PointX="15.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Role" Width="1.5" PointX="15.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.SaleDetail" Width="1.5" PointX="8" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Sale" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.SaleStatus" Width="1.5" PointX="15.75" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.SaleType" Width="1.5" PointX="2.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.security" Width="1.5" PointX="16.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.StockTranfer" Width="1.5" PointX="4.75" PointY="16.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Supplier" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.Tax" Width="1.5" PointX="17.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StoreManagerDBModel.User" Width="1.5" PointX="17.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_ProductBrand" ManuallyRouted="false" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_ProductCategory" ManuallyRouted="false" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_ProductLocationLocation" ManuallyRouted="false" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_MeasurementProduct" ManuallyRouted="false" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_ProductLocationProduct" ManuallyRouted="false" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_ProductSupplier" ManuallyRouted="false" />
+        <AssociationConnector Association="StoreManagerDBModel.FK_SaleSaleDetail" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

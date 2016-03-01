@@ -1,0 +1,32 @@
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.DataAccess.dll.config
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.DataAccess.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.DataAccess.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Entities.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Infractracture.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.ViewModel.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Entities.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Infractracture.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.ViewModel.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\obj\Debug\storeManager.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\obj\Debug\storeManager.DataAccess.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.DataAccess\obj\Debug\storeManager.DataAccess.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.DataAccess.dll.config
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.DataAccess.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.DataAccess.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Entities.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Infractracture.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.ViewModel.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Entities.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.Infractracture.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\storeManager.ViewModel.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\obj\Debug\storeManager.DataAccess.csprojResolveAssemblyReference.cache
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\obj\Debug\storeManager.DataAccess.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.DataAccess\obj\Debug\storeManager.DataAccess.pdb

@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A604E422-51A7-4F69-B38A-73B7E7C704CC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>storeManager.DataAccess</RootNamespace>
+    <AssemblyName>storeManager.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AccessRight.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Address.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AddressType.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BackupDetail.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Brand.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CardInformation.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Company.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CompanyDetail.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="Country.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerPaymentHistory.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="DBScripts.cs" />
+    <Compile Include="Employee.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorLog.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaces\IBrandRepository.cs" />
+    <Compile Include="Interfaces\ICategoryRepository.cs" />
+    <Compile Include="Interfaces\ICompanyRepository.cs" />
+    <Compile Include="Interfaces\ICustomerRepository.cs" />
+    <Compile Include="Interfaces\IEmployeeRepository.cs" />
+    <Compile Include="Interfaces\IErrorLogRepository.cs" />
+    <Compile Include="Interfaces\IGenericRepository.cs" />
+    <Compile Include="Interfaces\IPaymentModeRepository.cs" />
+    <Compile Include="Interfaces\IProductAjustmentRepository.cs" />
+    <Compile Include="Interfaces\IProductLocationRepository.cs" />
+    <Compile Include="Interfaces\IProductRepository.cs" />
+    <Compile Include="Interfaces\IRepository.cs" />
+    <Compile Include="Interfaces\ISaleDetailRepository.cs" />
+    <Compile Include="Interfaces\ISaleRepository.cs" />
+    <Compile Include="Interfaces\ISupplierRepository.cs" />
+    <Compile Include="Interfaces\ITaxRepository.cs" />
+    <Compile Include="InvoiceNumber.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LabelSetting.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Location.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Measurement.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentMode.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductAdjustment.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ProductLocation.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PurchaseDetail.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Repositories\BrandRepository.cs" />
+    <Compile Include="Repositories\CategoryRepository.cs" />
+    <Compile Include="Repositories\CompanyRepository.cs" />
+    <Compile Include="Repositories\CustomerRepository.cs" />
+    <Compile Include="Repositories\EmployeeRepository.cs" />
+    <Compile Include="Repositories\ErrorLogRepository.cs" />
+    <Compile Include="Repositories\GenericRepository.cs" />
+    <Compile Include="Repositories\PaymentModeRepository.cs" />
+    <Compile Include="Repositories\ProductAjustmentRepository.cs" />
+    <Compile Include="Repositories\ProductLocationRepository.cs" />
+    <Compile Include="Repositories\ProductRepository.cs" />
+    <Compile Include="Repositories\Repository.cs" />
+    <Compile Include="Repositories\SaleDetailRepository.cs" />
+    <Compile Include="Repositories\SaleRepository.cs" />
+    <Compile Include="Repositories\StoredProcedureGatewayRepository.cs" />
+    <Compile Include="Repositories\StoreRepository.cs" />
+    <Compile Include="Repositories\SupplierRepository.cs" />
+    <Compile Include="Repositories\TaxRepository.cs" />
+    <Compile Include="Repositories\VoucherDetailRepository.cs" />
+    <Compile Include="Repositories\VoucherSettingRepository.cs" />
+    <Compile Include="Role.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Sale.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SaleDetail.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SaleStatus.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SaleType.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="security.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="StockTranfer.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="StoreManagerModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StoreManagerModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="StoreManagerModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="StoreManagerModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StoreManagerModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Supplier.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Tax.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <DependentUpon>StoreManagerModel.tt</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+    <EntityDeploy Include="StoreManagerModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>StoreManagerModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="packages.config" />
+    <None Include="StoreManagerModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>StoreManagerModel.edmx</DependentUpon>
+      <LastGenOutput>StoreManagerModel.Context.cs</LastGenOutput>
+    </None>
+    <None Include="StoreManagerModel.edmx.diagram">
+      <DependentUpon>StoreManagerModel.edmx</DependentUpon>
+    </None>
+    <None Include="StoreManagerModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>StoreManagerModel.edmx</DependentUpon>
+      <LastGenOutput>StoreManagerModel.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\storeManager.Entities\storeManager.Entities.csproj">
+      <Project>{b28f6acf-0c0f-4591-bffd-92b66a8dfd5b}</Project>
+      <Name>storeManager.Entities</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\storeManager.Infractracture\storeManager.Infractracture.csproj">
+      <Project>{6cef9cc9-cb8d-4e59-b0d9-0e118582d61e}</Project>
+      <Name>storeManager.Infractracture</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\storeManager.ViewModel\storeManager.ViewModel.csproj">
+      <Project>{2c09dda4-83bd-44b9-b7ab-a650e450c9b3}</Project>
+      <Name>storeManager.ViewModel</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

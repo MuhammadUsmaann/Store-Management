@@ -1,0 +1,9 @@
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.ViewModel\bin\Debug\storeManager.ViewModel.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.ViewModel\bin\Debug\storeManager.ViewModel.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.ViewModel\obj\Debug\storeManager.ViewModel.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.ViewModel\obj\Debug\storeManager.ViewModel.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.ViewModel\bin\Debug\storeManager.ViewModel.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.ViewModel\bin\Debug\storeManager.ViewModel.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.ViewModel\obj\Debug\storeManager.ViewModel.csprojResolveAssemblyReference.cache
+D:\Products\Inventory System\InventoryManagement\storeManager.ViewModel\obj\Debug\storeManager.ViewModel.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.ViewModel\obj\Debug\storeManager.ViewModel.pdb

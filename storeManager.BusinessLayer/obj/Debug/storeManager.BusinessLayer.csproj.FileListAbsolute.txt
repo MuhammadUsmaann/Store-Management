@@ -1,0 +1,50 @@
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\obj\Debug\storeManager.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.BusinessLayer.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.BusinessLayer.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\Dapper.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.DataAccess.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Entities.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Infractracture.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.ViewModel.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.DataAccess.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Entities.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Infractracture.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.ViewModel.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\Dapper.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\Dapper.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\obj\Debug\storeManager.BusinessLayer.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\obj\Debug\storeManager.BusinessLayer.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.BusinessLayer.dll.config
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.BusinessLayer.dll.config
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.BusinessLayer.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.BusinessLayer.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\Dapper.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.DataAccess.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Entities.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Infractracture.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.ViewModel.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.DataAccess.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Entities.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.Infractracture.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\storeManager.ViewModel.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\Dapper.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\Dapper.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\bin\Debug\System.Data.SQLite.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\obj\Debug\storeManager.BusinessLayer.csprojResolveAssemblyReference.cache
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\obj\Debug\storeManager.BusinessLayer.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.BusinessLayer\obj\Debug\storeManager.BusinessLayer.pdb

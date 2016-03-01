@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B28F6ACF-0C0F-4591-BFFD-92B66A8DFD5B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>storeManager.Entities</RootNamespace>
+    <AssemblyName>storeManager.Entities</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Entities\AccessRight.cs" />
+    <Compile Include="Entities\Address.cs" />
+    <Compile Include="Entities\AddressType.cs" />
+    <Compile Include="Entities\BackupDetail.cs" />
+    <Compile Include="Entities\Brand.cs" />
+    <Compile Include="Entities\CardInformation.cs" />
+    <Compile Include="Entities\Category.cs" />
+    <Compile Include="Entities\Company.cs" />
+    <Compile Include="Entities\CompanyDetail.cs" />
+    <Compile Include="Entities\Country.cs" />
+    <Compile Include="Entities\Customer.cs" />
+    <Compile Include="Entities\CustomerPaymentHistory.cs" />
+    <Compile Include="Entities\Employee.cs" />
+    <Compile Include="Entities\ErrorLog.cs" />
+    <Compile Include="Entities\InvoiceNumber.cs" />
+    <Compile Include="Entities\LabelSetting.cs" />
+    <Compile Include="Entities\Location.cs" />
+    <Compile Include="Entities\Measurement.cs" />
+    <Compile Include="Entities\PaymentMode.cs" />
+    <Compile Include="Entities\Product.cs" />
+    <Compile Include="Entities\ProductAdjustment.cs" />
+    <Compile Include="Entities\ProductLocation.cs" />
+    <Compile Include="Entities\Purchase.cs" />
+    <Compile Include="Entities\PurchaseDetail.cs" />
+    <Compile Include="Entities\Role.cs" />
+    <Compile Include="Entities\Sale.cs" />
+    <Compile Include="Entities\SaleDetail.cs" />
+    <Compile Include="Entities\SaleStatus.cs" />
+    <Compile Include="Entities\SaleType.cs" />
+    <Compile Include="Entities\security.cs" />
+    <Compile Include="Entities\StockTranfer.cs" />
+    <Compile Include="Entities\Supplier.cs" />
+    <Compile Include="Entities\Tax.cs" />
+    <Compile Include="Entities\User.cs" />
+    <Compile Include="ExtendedEntities\Brand.cs" />
+    <Compile Include="ExtendedEntities\Category.cs" />
+    <Compile Include="ExtendedEntities\Customer.cs" />
+    <Compile Include="ExtendedEntities\Employee.cs" />
+    <Compile Include="ExtendedEntities\Product.cs" />
+    <Compile Include="ExtendedEntities\Supplier.cs" />
+    <Compile Include="ExtendedEntities\Tax.cs" />
+    <Compile Include="Interfaces\IBaseEntity.cs" />
+    <Compile Include="Interfaces\IBrand.cs" />
+    <Compile Include="Interfaces\ICategory.cs" />
+    <Compile Include="Interfaces\ICustomer.cs" />
+    <Compile Include="Interfaces\IEmployee.cs" />
+    <Compile Include="Interfaces\IProduct.cs" />
+    <Compile Include="Interfaces\ISupplier.cs" />
+    <Compile Include="Interfaces\ITax.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

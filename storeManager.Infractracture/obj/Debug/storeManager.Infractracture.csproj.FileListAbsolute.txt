@@ -1,0 +1,9 @@
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.Infractracture\bin\Debug\storeManager.Infractracture.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.Infractracture\bin\Debug\storeManager.Infractracture.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.Infractracture\obj\Debug\storeManager.Infractracture.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.Infractracture\obj\Debug\storeManager.Infractracture.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.Infractracture\bin\Debug\storeManager.Infractracture.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.Infractracture\bin\Debug\storeManager.Infractracture.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.Infractracture\obj\Debug\storeManager.Infractracture.csprojResolveAssemblyReference.cache
+D:\Products\Inventory System\InventoryManagement\storeManager.Infractracture\obj\Debug\storeManager.Infractracture.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.Infractracture\obj\Debug\storeManager.Infractracture.pdb

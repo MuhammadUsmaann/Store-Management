@@ -1,0 +1,186 @@
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucAdjustStock.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucCardInfo.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucCurrentStock.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucDashBoard.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucManageSale.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucNewProduct.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucOrder.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucProductList.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucProductPricing.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucQuote.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucSale.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucSalesList.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucTransferStock.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucTransferStocks.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddBrand.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddCategory.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddCompany.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddLocation.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddMeasurement.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddTax.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddUser.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmCalculateDiscount.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseBrand.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseCategory.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseCustomer.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseEmployee.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseItem.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseSupplier.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseTax.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmControlHost.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmDatabaseBackUp.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmDatabaseRestore.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmDescription.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmGenerateLabels.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmHardwareSetup.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmLocations.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmLogIn.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmMain.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmPrinterSetting.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\CreditFinance.frmRestoreDatabase.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSelectProduct.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSelectProduct1.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSelectProductForTransfer.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSellingPriceCalculate.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSetupDetails.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmStartUp.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmUsers.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Properties.Resources.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Reporting.frmReportOutput.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Reporting.frmReportParameters.resources
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.csproj.GenerateResource.Cache
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.UI.exe.config
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.UI.exe
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.UI.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Microsoft.PointOfService.ControlBase.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Microsoft.PointOfService.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Spire.Barcode.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\SqlServerUtility.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.BusinessLayer.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.DataAccess.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Entities.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Infractracture.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.ViewModel.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\TelerikCommon.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Dapper.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.BusinessLayer.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.DataAccess.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Entities.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Infractracture.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\storeManager.ViewModel.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Dapper.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\Dapper.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.exe
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.pdb
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammad Usman\documents\visual studio 2013\Projects\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.UI.exe.config
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.exe
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.UI.exe
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.UI.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\CrystalDecisions.Shared.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.SqlServer.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Microsoft.PointOfService.ControlBase.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Microsoft.PointOfService.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Spire.Barcode.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\SqlServerUtility.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.BusinessLayer.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.DataAccess.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Entities.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Infractracture.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.ViewModel.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.RadDock.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Telerik.WinControls.UI.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\TelerikCommon.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Dapper.dll
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.BusinessLayer.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.DataAccess.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Entities.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.Infractracture.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\storeManager.ViewModel.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\EntityFramework.SqlServer.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\System.Data.SQLite.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Dapper.pdb
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\bin\Debug\Dapper.xml
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.csprojResolveAssemblyReference.cache
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucAdjustStock.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucCardInfo.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucCurrentStock.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucDashBoard.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucManageSale.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucNewProduct.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucOrder.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucProductList.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucProductPricing.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucQuote.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucSale.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucSalesList.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucTransferStock.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Controls.ucTransferStocks.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddBrand.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddCategory.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddCompany.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddLocation.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddMeasurement.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddTax.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmAddUser.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmCalculateDiscount.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseBrand.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseCategory.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseCustomer.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseEmployee.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseItem.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseSupplier.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmChooseTax.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmControlHost.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmDatabaseBackUp.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmDatabaseRestore.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmDescription.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmGenerateLabels.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmHardwareSetup.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmLocations.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmLogIn.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmMain.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmPrinterSetting.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\CreditFinance.frmRestoreDatabase.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSelectProduct.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSelectProduct1.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSelectProductForTransfer.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSellingPriceCalculate.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmSetupDetails.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmStartUp.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.frmUsers.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Properties.Resources.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Reporting.frmReportOutput.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.Reporting.frmReportParameters.resources
+D:\Products\Inventory System\InventoryManagement\storeManager.UI\obj\Debug\storeManager.UI.csproj.GenerateResource.Cache
